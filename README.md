@@ -1,16 +1,28 @@
-## Hi there 👋
+# APTID
 
-<!--
-**aptidplus/aptidplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Convertimos necesidades operativas en soluciones digitales claras.
 
-Here are some ideas to get you started:
+Diseñamos y desarrollamos software a medida para organizar información,
+mejorar la trazabilidad y facilitar la gestión de cada empresa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cómo trabajamos
+
+- **Comprender:** conocer la operación y sus necesidades.
+- **Diseñar:** definir una solución útil y adaptada a sus procesos.
+- **Construir:** desarrollar tecnología clara y práctica.
+
+## Líneas de trabajo
+
+- **Habilitación documental:** gestión de requisitos y estados
+  documentales del personal por proyecto.
+- **Pasaporte digital de competencias:** iniciativa para consultar
+  capacitaciones, certificaciones y competencias.
+- **Control de flota vehicular:** iniciativa para organizar
+  documentación, mantenimiento y gastos.
+- **Software a medida:** soluciones para necesidades específicas
+  de cada organización.
+
+## Nuestros proyectos
+
+Este espacio reunirá los proyectos y recursos públicos de APTID.
+Cada iniciativa incluirá su descripción, alcance y estado de desarrollo.
